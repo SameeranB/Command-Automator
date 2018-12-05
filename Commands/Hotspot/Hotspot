@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+sudo create_ap wlo1 wlo1 $1 $2
